@@ -1,0 +1,12 @@
+C:\Users\LUAN\source\repos\2212410_Lab02\bin\Debug\2212410_Lab02.exe.config
+C:\Users\LUAN\source\repos\2212410_Lab02\bin\Debug\2212410_Lab02.exe
+C:\Users\LUAN\source\repos\2212410_Lab02\bin\Debug\2212410_Lab02.pdb
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\2212410_Lab02.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\_2212410_Lab02.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\2212410_Lab02.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\2212410_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\2212410_Lab02.exe
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\2212410_Lab02.pdb
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\_2212410_Lab02.frmTrungTam.resources
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\_2212410_Lab02.GV.resources
+C:\Users\LUAN\source\repos\2212410_Lab02\obj\Debug\_2212410_Lab02.ftmTBGiaoVien.resources
